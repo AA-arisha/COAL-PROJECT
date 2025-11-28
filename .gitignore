@@ -1,0 +1,21 @@
+# Visual Studio build folders
+Debug/
+Release/
+.vs/
+bin/
+obj/
+
+# Ignore user/system folders
+*.exp
+*.cache
+*.pdb
+*.obj
+*.exe
+*.ilk
+*.lib
+*.idb
+
+# Ignore temporary files
+*.tmp
+*.log
+*.bak
